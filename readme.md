@@ -1,4 +1,4 @@
-# [Nextra](https://nextra.vercel.app)
+# TEJS
 
 _Warning: this project is not production ready, API might change without notice._
 
@@ -6,9 +6,9 @@ _Warning: this project is not production ready, API might change without notice.
 
 **Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
 
-![](/public/demo.png)
 
-## Development
+
+## Hi I am Tejas Thorat
 
 The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
 
